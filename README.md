@@ -8,4 +8,8 @@ Q0 and Q1 are what you check to see if they're the same and output Q2 if so.
 I created the Quantum AND Gate because I wanted to see if I could create a Quantum Gate Schematic
 without help from anyone or the internet plus I was bored.
 
+Invert Polarity (Gate):
+![Invert Polarity Gate](https://github.com/Sammyueru/open-quantum-gates/blob/main/Invert_Polarity_gate.png)
+Created to make the QAND Gate even work
+
 My Website: [SammTech.net](https://SammTech.net/home.html)
