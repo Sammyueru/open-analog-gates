@@ -1,6 +1,10 @@
 # Open Source Quantum Gates
 I like Quantum Computers so I created quantum gate(s)
 
+QAND Gate 2.0:
+![QAND Gate 2.0](https://github.com/Sammyueru/open-quantum-gates/blob/main/QAND_gate_2-0.png)
+I made the QAND Gate better.
+
 QAND Gate:
 ![QAND Gate](https://github.com/Sammyueru/open-quantum-gates/blob/main/QAND_gate.png)
 Q0 and Q1 are what you check to see if they're the same and output Q2 if so.
