@@ -15,6 +15,8 @@ Created to make the QAND Gate even work
 # Website
 My Website: [SammTech.net](https://SammTech.net/home.html)
 
+Open Source Quantum Gates Website: [Open Source Quantum Gates](https://opensource.sammtech.net/archive/open-quantum-gates/file.html)
+
 # Warning
 That I'm still testing the gates and that these gates might have some problems with them.
 Please don't use them unless you know what your doing, I would at least learn more about
