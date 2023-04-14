@@ -29,6 +29,9 @@ Example: Credit to Samm from https://SammTech.net GitHub found here: https://git
 
 This is licensed under the MIT License though as seen in the LICENSE file
 
+# Social
+Twitter: https://twitter.com/JustSammHere (@JustSammHere)
+
 # Warning
 That I'm still testing the gates and that these gates might have some problems with them.
 Please don't use them unless you know what your doing, I would at least learn more about
