@@ -21,6 +21,14 @@ My Website: [SammTech.net](https://SammTech.net/home.html)
 
 Open Source Quantum Gates Website: [Open Source Quantum Gates](https://opensource.sammtech.net/archive/open-quantum-gates/file.html)
 
+# Credit
+If you use it in something please give appropriate credit like a link to this GitHub page and credit to Samm
+and if you can please do link my website: https://SammTech.net and/or my Twitter: https://twitter.com/JustSammHere
+
+Example: Credit to Samm from https://SammTech.net GitHub found here: https://github.com/Sammyueru/open-quantum-gates and Twitter found here: https://twitter.com/JustSammHere
+
+This is licensed under the MIT License though as seen in the LICENSE file
+
 # Warning
 That I'm still testing the gates and that these gates might have some problems with them.
 Please don't use them unless you know what your doing, I would at least learn more about
